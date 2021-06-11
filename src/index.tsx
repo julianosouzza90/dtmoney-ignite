@@ -27,7 +27,7 @@ createServer({
           title: 'Fatura cartão de crédito',
           type: 'withdraw',
           category: 'Contas',
-          amount: 600,
+          amount: 700,
           createdAt: new Date('2021-05-12 09:00:00'),
 
         }
