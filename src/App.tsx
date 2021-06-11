@@ -8,7 +8,7 @@ import { TransactionsTable } from "./components/TransactionsTable";
 import { GlobalSyle } from "./styles/global";
 import { NewTransacionModal } from "./components/NewTransactionModal";
 
-import { TransactionsProvider } from './TransactionsContext';
+import { TransactionsProvider } from './hooks/useTransaction';
 
 Modal.setAppElement('#root');
 
